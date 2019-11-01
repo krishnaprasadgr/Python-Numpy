@@ -1,3 +1,3 @@
 # NumPy
 
-Numpy basics
+Numpy basics.
